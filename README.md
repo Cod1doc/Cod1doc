@@ -1,16 +1,32 @@
-- 👋 Hi, I’m @Cod1doc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, Email
+# Cod1doc
 
-Where other men blindly follow the truth.  
-Remember, nothing is true.  
-Where other men are limited by morality or law.  
-Remember, everything is permitted.  
-We work in the dark to serve the light.
+Full-stack tinkerer, tool-obsessed builder, and systems-minded learner.
 
-<!---
-Cod1doc/Cod1doc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like turning ideas into working systems, breaking problems down to their internals, and learning how software behaves under the hood.
+
+## Focus
+
+- Full-stack web apps
+- Developer tools and automation
+- AI-assisted coding workflows
+- Linux, Git, terminals, and clean engineering habits
+- C++, Python, JavaScript, TypeScript, Vue, React, Node.js
+
+## Currently
+
+- Building practical projects
+- Improving frontend and backend fundamentals
+- Contributing to open source
+- Writing cleaner, faster, more maintainable code
+
+## Ask Me About
+
+C++, Python, Git, Linux, beginner web development, and building things from scratch.
+
+## Contact
+
+get.any.closer@gmail.com
+
+<!--
+Cod1doc/Cod1doc is a special repository because its README.md appears on your GitHub profile.
+-->
